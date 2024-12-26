@@ -10,7 +10,7 @@ import world_pic from "../assets/Mask Group 3.png";
 import contact_logo from "../assets/Mention-amico (1).png";
 
 
-
+  
 
 
 
@@ -167,6 +167,7 @@ export default function Contact() {
               </p>
               <h1 className="text-2xl sm:text-4xl md:text-6xl font-extrabold leading-snug font-copper">
               {formatMessage({ id: "country" })}
+
               </h1>
             </div>
           </div>
