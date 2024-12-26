@@ -9,7 +9,7 @@ export default function MasterHeader() {
   const { locale, switchLocale } = useLocale();
 
   return (
-    <div className="sm:px-6 lg:px-11">
+    <div className=" lg:px-11">
       <div className="bg-gradient-to-r from-yellow-400 to-yellow-600 text-white rounded-lg shadow-lg">
         <div className="info flex flex-wrap justify-end lg:space-x-10 sm:space-x-6 items-center lg:mx-9 h-auto py-4">
           
