@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1269" height="300" viewBox="0 0 1269 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.279" y1="0.5" x2="0.645" y2="0.397" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bd9c00"/>
+      <stop offset="1" stop-color="#f6db5a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="jake-nebov-seTS7bvcr0A-unsplash_1_" data-name="jake-nebov-seTS7bvcr0A-unsplash (1)" width="1269" height="300" rx="16" opacity="0.99" fill="url(#linear-gradient)"/>
+</svg>

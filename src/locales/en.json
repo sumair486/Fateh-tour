@@ -1,0 +1,52 @@
+{
+    "header.phone": "Phone",
+    "header.location": "Location",
+    "header.language": "Select Language",
+    "header.phone_number": "+966 54 628 3111",
+    "header.address": "Al Noor Industrial Area, Riyadh",
+    "header.home": "Home",
+    "header.service": "Service",
+    "header.about": "About",
+    "header.contact": "Contact",
+    "footer.copy": "All rights reserved for 2024",
+    "adventureHeading": "Your Gateway to<br>World Adventure",
+
+    "serviceTitle1": "International And  Domestic Flight Tickets",
+     
+     "serviceTitle2": "Hotel Reservation World Wide",
+     "serviceTitle3": "Visa Services",
+     "serviceTitle4": "International Driving License",
+     "serviceTitle5": "Airport VIP Service",
+     "serviceTitle6": "House Maid Transportation",
+     "serviceTitle7": "Tourism Packages",
+     "serviceTitle8": "Umrah & Ziyara Services",
+
+     "aboutText1": "Fateh Al Mustaqbil is a one-of-a-kind travel agency designed to cater to the interests of travelers across the globe, founded in 2023 in Riyadh, Saudi Arabia. Our expertise lies in crafting exceptional journeys tailored to each client's unique requirements, whether it be ticketing, hotel bookings, or visa assistance. With competitive pricing and access to superior consulting services, we have become the favored choice among travelers. Fateh Al Mustaqbil plays a pivotal role in shaping the landscape of travel and tour services not only within the Kingdom of Saudi Arabia but also on a global scale.",
+     "aboutText2": "Welcome to Fateh Al Mustaqbil, where we advocate exploring the world one adventure at a time. Come, be a part of this remarkable journey, and together, let's craft experiences that transcend time and place.",
+
+     "serviceHeading": "Services by FATEH",
+     "serviceDescription": "Elevate your travel experience with our comprehensive and efficient solutions. We leverage <br>  a wide range of travel services, all aimed at making your travel journey smooth and enjoyable.",
+     "serviceDesc1": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Cras ultricies ligula sed magna dictum porta.",
+
+     "contactTitle": "Contact Us",
+     "namePlaceholder": "Name",
+     "emailPlaceholder": "Email",
+     "phonePlaceholder": "Phone number",
+     "servicesPlaceholder": "Services Required",
+     
+         "booking": "Booking",
+         "visa": "Visa Assistance",
+         "tour": "Tour Services",
+     
+     "descriptionPlaceholder": "Description",
+     "sendButton": "Send",
+     "timings": "Timings",
+     "operational": "Currently Operational in",
+     "sunday": "Sunday - Thursday 6am - 9pm",
+     "dirt": "You can directly reach to us",
+
+     "country": "Saudi Arabia",
+     "address": "Haye Al Mansoura, Riyadh"
+     
+}
+  
