@@ -51,7 +51,7 @@ export default function MasterHeader() {
           value={locale}
           onChange={(e) => switchLocale(e.target.value)}
         >
-          <option value="en">English</option>
+          <option className="" value="en">English</option>
           <option value="ar">عربي</option>
         </select>
       </div>
