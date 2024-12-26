@@ -152,8 +152,8 @@ export default function Contact() {
       </section>
 
       
-      <section className="relative w-full overflow-hidden">
-        <div className="relative w-full">
+      <section className="relative  px-5 w-[100%] overflow-hidden">
+        <div className="relative w-[100%]">
           <img
             src={world_pic}
             alt="World Map"
